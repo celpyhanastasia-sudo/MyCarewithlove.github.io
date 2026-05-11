@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 620" role="img" aria-labelledby="title">
+  <title id="title">Reaching out from loneliness</title>
+  <rect width="900" height="620" rx="34" fill="#eaf0f8"/>
+  <path d="M0 470 C120 410 252 455 352 420 C495 370 650 430 900 380 L900 620 L0 620Z" fill="#496f9f"/>
+  <rect x="112" y="98" width="230" height="300" rx="24" fill="#fffaf0"/>
+  <circle cx="226" cy="190" r="52" fill="#e9aa8e"/>
+  <path d="M150 360 C160 276 190 238 226 238 C262 238 292 276 302 360Z" fill="#d66b5d"/>
+  <path d="M180 166 C205 126 262 138 279 174 C240 158 214 178 203 218 C190 205 182 188 180 166Z" fill="#25333b"/>
+  <rect x="485" y="118" width="294" height="210" rx="28" fill="#fffaf0"/>
+  <path d="M530 186 H725M530 238 H660" stroke="#8fb9aa" stroke-width="18" stroke-linecap="round"/>
+  <path d="M560 330 L528 386 L616 340Z" fill="#fffaf0"/>
+  <circle cx="650" cy="455" r="54" fill="#f1b59d"/>
+  <path d="M568 570 C578 500 608 468 650 468 C692 468 724 502 734 570Z" fill="#2f6654"/>
+  <path d="M392 460 C442 410 515 410 566 458" fill="none" stroke="#d8a84f" stroke-width="16" stroke-linecap="round"/>
+</svg>

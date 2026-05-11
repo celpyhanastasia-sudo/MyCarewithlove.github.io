@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 680" role="img" aria-label="Світла кімната для спокійної розмови">
+  <defs>
+    <linearGradient id="wall" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0" stop-color="#fff9f1"/>
+      <stop offset="0.56" stop-color="#f3eadf"/>
+      <stop offset="1" stop-color="#e7f0e8"/>
+    </linearGradient>
+    <linearGradient id="sun" x1="0" x2="1">
+      <stop offset="0" stop-color="#fff6de" stop-opacity=".95"/>
+      <stop offset="1" stop-color="#fff6de" stop-opacity="0"/>
+    </linearGradient>
+    <filter id="soft" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="14"/>
+    </filter>
+  </defs>
+  <rect width="1200" height="680" fill="url(#wall)"/>
+  <path d="M0 110 C210 42 358 78 520 18 C713 -54 892 42 1200 0 L1200 680 L0 680 Z" fill="#fffaf3" opacity=".72"/>
+  <path d="M0 0 L680 0 L150 680 L0 680 Z" fill="url(#sun)" opacity=".85"/>
+  <g opacity=".35" stroke="#d8c7b6" stroke-width="2">
+    <path d="M710 0 540 680"/>
+    <path d="M835 0 664 680"/>
+    <path d="M960 0 790 680"/>
+  </g>
+  <rect x="732" y="106" width="172" height="198" rx="8" fill="#fffdf8" stroke="#d8c7b6" stroke-width="8"/>
+  <text x="818" y="184" text-anchor="middle" font-family="Arial, sans-serif" font-size="28" fill="#253128" font-weight="700">you</text>
+  <text x="818" y="222" text-anchor="middle" font-family="Arial, sans-serif" font-size="28" fill="#253128" font-weight="700">matter</text>
+  <path d="M816 252 c-12 -13 -34 5 -14 22 l14 13 14 -13 c20 -17 -2 -35 -14 -22z" fill="none" stroke="#597a5e" stroke-width="3"/>
+  <ellipse cx="776" cy="555" rx="185" ry="42" fill="#d5c0ad" opacity=".34" filter="url(#soft)"/>
+  <path d="M670 548 c18 -105 58 -164 134 -164 h123 c70 0 118 54 132 164z" fill="#f7f2ea" stroke="#d9c9ba" stroke-width="8"/>
+  <path d="M728 430 c8 -42 42 -72 87 -72 h100 c48 0 84 33 92 80" fill="none" stroke="#d9c9ba" stroke-width="18" stroke-linecap="round"/>
+  <rect x="802" y="424" width="126" height="86" rx="14" fill="#9eb48d"/>
+  <path d="M362 526 h178" stroke="#b58e67" stroke-width="14" stroke-linecap="round"/>
+  <path d="M414 526 l-30 108 M496 526 l34 108" stroke="#8f6e52" stroke-width="10" stroke-linecap="round"/>
+  <ellipse cx="451" cy="498" rx="96" ry="25" fill="#c49b72"/>
+  <rect x="438" y="454" width="46" height="34" rx="6" fill="#fffaf1" stroke="#c7a989" stroke-width="5"/>
+  <path d="M484 462 c26 0 26 24 0 24" fill="none" stroke="#c7a989" stroke-width="5"/>
+  <g transform="translate(966 128)" stroke="#416b4d" stroke-width="7" stroke-linecap="round">
+    <path d="M78 500 V124"/>
+    <path d="M78 242 C35 218 20 185 21 150"/>
+    <path d="M78 296 c54 -14 80 -46 86 -94"/>
+    <path d="M78 392 c-48 -8 -81 -35 -98 -78"/>
+    <path d="M78 456 c45 -10 73 -37 92 -76"/>
+  </g>
+  <g fill="#78986f" opacity=".95">
+    <ellipse cx="998" cy="270" rx="36" ry="20" transform="rotate(-34 998 270)"/>
+    <ellipse cx="1038" cy="216" rx="42" ry="22" transform="rotate(28 1038 216)"/>
+    <ellipse cx="1092" cy="302" rx="43" ry="23" transform="rotate(-24 1092 302)"/>
+    <ellipse cx="974" cy="430" rx="45" ry="23" transform="rotate(22 974 430)"/>
+    <ellipse cx="1090" cy="504" rx="38" ry="20" transform="rotate(-32 1090 504)"/>
+  </g>
+  <rect x="1002" y="620" width="116" height="38" rx="8" fill="#c59d72"/>
+  <g transform="translate(540 250)" stroke="#6f8e68" stroke-width="5" stroke-linecap="round">
+    <path d="M0 180 C14 120 12 64 50 0"/>
+    <path d="M6 138 c-38 -22 -56 -48 -67 -78"/>
+    <path d="M19 102 c45 -18 72 -48 84 -88"/>
+  </g>
+  <g fill="#8ba77f">
+    <ellipse cx="486" cy="330" rx="30" ry="15" transform="rotate(32 486 330)"/>
+    <ellipse cx="610" cy="282" rx="32" ry="16" transform="rotate(-32 610 282)"/>
+    <ellipse cx="574" cy="388" rx="26" ry="13" transform="rotate(-18 574 388)"/>
+  </g>
+</svg>

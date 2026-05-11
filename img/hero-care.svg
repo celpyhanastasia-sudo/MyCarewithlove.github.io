@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1400 900" role="img" aria-labelledby="title desc">
+  <title id="title">MindCare calm hero illustration</title>
+  <desc id="desc">Warm illustrated room with soft light, plants, books, and a quiet support conversation.</desc>
+  <defs>
+    <linearGradient id="sky" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#cfe9dc"/>
+      <stop offset="0.55" stop-color="#f5d4c8"/>
+      <stop offset="1" stop-color="#f7efd7"/>
+    </linearGradient>
+    <linearGradient id="floor" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#466b78"/>
+      <stop offset="1" stop-color="#2f6654"/>
+    </linearGradient>
+  </defs>
+  <rect width="1400" height="900" fill="url(#sky)"/>
+  <circle cx="1120" cy="170" r="120" fill="#fff4c7" opacity=".8"/>
+  <path d="M0 650 C220 580 360 720 560 650 C780 570 930 650 1110 610 C1230 585 1320 610 1400 575 L1400 900 L0 900Z" fill="url(#floor)"/>
+  <rect x="110" y="165" width="410" height="300" rx="18" fill="#fffaf0" opacity=".92"/>
+  <rect x="145" y="200" width="150" height="110" rx="14" fill="#8fb9aa"/>
+  <rect x="320" y="200" width="165" height="110" rx="14" fill="#d66b5d"/>
+  <rect x="145" y="335" width="340" height="82" rx="14" fill="#496f9f" opacity=".9"/>
+  <path d="M114 512 C185 462 274 456 354 505 C441 558 526 542 594 500 C670 452 781 462 836 542 L836 668 L114 668Z" fill="#f8fbfd" opacity=".78"/>
+  <ellipse cx="430" cy="626" rx="220" ry="62" fill="#23333b" opacity=".18"/>
+  <circle cx="420" cy="395" r="60" fill="#f2b49d"/>
+  <path d="M338 580 C345 478 385 430 422 430 C465 430 506 480 512 580Z" fill="#2f6654"/>
+  <path d="M365 363 C384 318 451 315 479 356 C451 348 424 366 408 397 C388 388 373 377 365 363Z" fill="#26343c"/>
+  <circle cx="760" cy="378" r="56" fill="#e9aa8e"/>
+  <path d="M678 590 C688 492 723 430 764 430 C812 430 852 495 860 590Z" fill="#496f9f"/>
+  <path d="M713 354 C729 312 795 306 821 351 C784 340 758 358 743 394 C727 386 716 373 713 354Z" fill="#303b44"/>
+  <path d="M506 470 C556 512 630 512 680 468" fill="none" stroke="#fffaf0" stroke-width="12" stroke-linecap="round"/>
+  <rect x="920" y="305" width="280" height="230" rx="18" fill="#fffaf0" opacity=".96"/>
+  <path d="M962 374 H1158" stroke="#8fb9aa" stroke-width="16" stroke-linecap="round"/>
+  <path d="M962 432 H1108" stroke="#d8a84f" stroke-width="16" stroke-linecap="round"/>
+  <path d="M962 490 H1138" stroke="#d66b5d" stroke-width="16" stroke-linecap="round"/>
+  <path d="M1180 700 C1155 615 1190 560 1258 530 C1290 604 1268 660 1180 700Z" fill="#8fb9aa"/>
+  <path d="M1260 728 C1220 655 1240 580 1314 540 C1364 628 1330 698 1260 728Z" fill="#4f8f7b"/>
+</svg>

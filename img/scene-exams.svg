@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 620" role="img" aria-labelledby="title">
+  <title id="title">Exam stress planning</title>
+  <rect width="900" height="620" rx="34" fill="#e9f2ed"/>
+  <path d="M0 456 C135 386 250 472 390 426 C555 372 714 440 900 382 L900 620 L0 620Z" fill="#4f8f7b"/>
+  <rect x="116" y="105" width="275" height="350" rx="18" fill="#fffaf0"/>
+  <path d="M164 174 H330M164 230 H305M164 286 H340M164 342 H286" stroke="#496f9f" stroke-width="16" stroke-linecap="round"/>
+  <circle cx="600" cy="300" r="64" fill="#e9aa8e"/>
+  <path d="M506 530 C518 402 555 358 601 358 C650 358 690 408 702 530Z" fill="#d66b5d"/>
+  <path d="M548 265 C568 214 646 222 670 266 C632 250 596 268 580 316 C564 302 552 284 548 265Z" fill="#25333b"/>
+  <path d="M690 195 L748 135 L812 198" fill="none" stroke="#d8a84f" stroke-width="18" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 520" role="img" aria-label="Тривожні думки та заземлення">
+  <defs><linearGradient id="a" x1="0" x2="1" y1="0" y2="1"><stop stop-color="#eef4ee"/><stop offset="1" stop-color="#fff3df"/></linearGradient></defs>
+  <rect width="720" height="520" fill="url(#a)"/>
+  <circle cx="520" cy="150" r="118" fill="#fffdf8" opacity=".75"/>
+  <path d="M128 360c52-98 138-146 258-146 112 0 178 42 206 126" fill="none" stroke="#d9c7b6" stroke-width="18" stroke-linecap="round"/>
+  <circle cx="344" cy="210" r="72" fill="#2f3a32"/>
+  <path d="M276 248c18 62 116 62 136 0" fill="#e7c2a8"/>
+  <path d="M305 242c28 17 54 17 78 0" fill="none" stroke="#fff6ea" stroke-width="8" stroke-linecap="round"/>
+  <g fill="none" stroke="#5b7894" stroke-width="9" stroke-linecap="round" opacity=".75">
+    <path d="M158 150c42-34 84-34 126 0s84 34 126 0"/>
+    <path d="M196 106c28-22 56-22 84 0s56 22 84 0"/>
+    <path d="M458 276c28-22 56-22 84 0s56 22 84 0"/>
+  </g>
+  <g fill="#6f8e68">
+    <circle cx="146" cy="402" r="13"/><circle cx="190" cy="402" r="13"/><circle cx="234" cy="402" r="13"/><circle cx="278" cy="402" r="13"/><circle cx="322" cy="402" r="13"/>
+  </g>
+  <text x="360" y="444" text-anchor="middle" font-family="Arial, sans-serif" font-size="26" font-weight="700" fill="#496b4b">вдих - видих</text>
+</svg>

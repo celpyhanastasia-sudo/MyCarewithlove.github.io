@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 620" role="img" aria-labelledby="title">
+  <title id="title">Support after bullying</title>
+  <rect width="900" height="620" rx="34" fill="#f4e5df"/>
+  <circle cx="760" cy="115" r="86" fill="#f9d985"/>
+  <path d="M0 458 C130 408 222 498 342 455 C505 398 604 438 733 405 C805 386 860 398 900 385 L900 620 L0 620Z" fill="#456d78"/>
+  <rect x="74" y="88" width="294" height="205" rx="18" fill="#fffaf0"/>
+  <path d="M116 150 H320M116 203 H286M116 256 H335" stroke="#d66b5d" stroke-width="18" stroke-linecap="round"/>
+  <circle cx="430" cy="288" r="62" fill="#e9aa8e"/>
+  <path d="M342 510 C350 398 386 342 431 342 C480 342 517 400 528 510Z" fill="#2f6654"/>
+  <path d="M369 252 C396 205 470 214 496 258 C451 245 417 266 397 300 C382 288 372 274 369 252Z" fill="#24323b"/>
+  <circle cx="620" cy="306" r="54" fill="#f1b59d"/>
+  <path d="M545 516 C553 420 584 360 622 360 C662 360 698 421 707 516Z" fill="#496f9f"/>
+  <path d="M535 374 C574 425 642 425 710 372" fill="none" stroke="#fffaf0" stroke-width="12" stroke-linecap="round"/>
+  <path d="M190 398 C230 346 300 348 340 398" fill="none" stroke="#d8a84f" stroke-width="18" stroke-linecap="round"/>
+</svg>

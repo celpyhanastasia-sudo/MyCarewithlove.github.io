@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 620" role="img" aria-labelledby="title">
+  <title id="title">Grief and quiet support</title>
+  <rect width="900" height="620" rx="34" fill="#f7efd7"/>
+  <path d="M0 450 C140 398 250 458 400 418 C560 374 730 440 900 382 L900 620 L0 620Z" fill="#466b78"/>
+  <circle cx="710" cy="130" r="72" fill="#fff4c7"/>
+  <path d="M170 240 C214 170 310 176 350 246 C304 222 248 224 203 270Z" fill="#8fb9aa"/>
+  <path d="M212 272 C248 250 310 250 342 275 L342 430 C302 462 246 462 212 430Z" fill="#fffaf0"/>
+  <circle cx="488" cy="330" r="58" fill="#e9aa8e"/>
+  <path d="M402 540 C412 430 446 386 489 386 C534 386 572 433 582 540Z" fill="#2f6654"/>
+  <path d="M620 430 C670 382 738 392 780 452" fill="none" stroke="#d8a84f" stroke-width="16" stroke-linecap="round"/>
+  <path d="M640 488 H790" stroke="#fffaf0" stroke-width="16" stroke-linecap="round"/>
+</svg>

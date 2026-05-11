@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 460" role="img" aria-label="Щоденник і чай на столі">
+  <defs><linearGradient id="bg" x1="0" x2="1" y1="0" y2="1"><stop stop-color="#f8efe2"/><stop offset="1" stop-color="#dfeadf"/></linearGradient></defs>
+  <rect width="720" height="460" fill="url(#bg)"/>
+  <circle cx="610" cy="58" r="150" fill="#fff8e9" opacity=".6"/>
+  <rect x="106" y="96" width="328" height="250" rx="16" fill="#fffdf8" stroke="#d5c3af" stroke-width="8"/>
+  <path d="M270 105 v232" stroke="#d5c3af" stroke-width="4"/>
+  <g stroke="#a7a9a2" stroke-width="5" stroke-linecap="round">
+    <path d="M145 155 h92"/><path d="M145 194 h78"/><path d="M145 233 h98"/>
+    <path d="M302 154 h84"/><path d="M302 194 h68"/><path d="M302 232 h96"/>
+  </g>
+  <path d="M488 198 c24 0 43 20 43 45 v16 c0 25 -19 45 -43 45 h-72 c-24 0 -43 -20 -43 -45 v-16 c0 -25 19 -45 43 -45z" fill="#f7f2eb" stroke="#bd9d7b" stroke-width="8"/>
+  <path d="M529 226 c42 0 42 49 0 49" fill="none" stroke="#bd9d7b" stroke-width="8"/>
+  <ellipse cx="452" cy="203" rx="78" ry="18" fill="#d7b38d"/>
+  <path d="M575 342 c-18 -64 8 -126 70 -164" stroke="#6d8c64" stroke-width="8" fill="none" stroke-linecap="round"/>
+  <ellipse cx="636" cy="185" rx="38" ry="18" fill="#86a477" transform="rotate(-30 636 185)"/>
+  <ellipse cx="601" cy="250" rx="30" ry="14" fill="#86a477" transform="rotate(24 601 250)"/>
+</svg>

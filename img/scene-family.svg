@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 620" role="img" aria-labelledby="title">
+  <title id="title">Family conflict conversation</title>
+  <rect width="900" height="620" rx="34" fill="#f4e5df"/>
+  <path d="M0 430 C140 378 250 456 390 412 C560 360 700 430 900 390 L900 620 L0 620Z" fill="#d66b5d"/>
+  <rect x="98" y="104" width="240" height="168" rx="22" fill="#fffaf0"/>
+  <path d="M140 168 H288M140 220 H248" stroke="#496f9f" stroke-width="16" stroke-linecap="round"/>
+  <rect x="566" y="92" width="240" height="178" rx="22" fill="#fffaf0"/>
+  <path d="M612 158 H750M612 214 H708" stroke="#8fb9aa" stroke-width="16" stroke-linecap="round"/>
+  <circle cx="330" cy="340" r="58" fill="#e9aa8e"/>
+  <path d="M244 540 C254 438 288 394 331 394 C374 394 410 438 420 540Z" fill="#2f6654"/>
+  <circle cx="586" cy="340" r="58" fill="#f1b59d"/>
+  <path d="M500 540 C510 438 544 394 587 394 C630 394 666 438 676 540Z" fill="#496f9f"/>
+  <path d="M428 438 C468 472 512 472 552 438" fill="none" stroke="#fffaf0" stroke-width="14" stroke-linecap="round"/>
+</svg>

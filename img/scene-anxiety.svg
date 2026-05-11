@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 620" role="img" aria-labelledby="title">
+  <title id="title">Anxiety grounding exercise</title>
+  <rect width="900" height="620" rx="34" fill="#e9f2ed"/>
+  <path d="M0 430 C150 350 265 460 420 405 C570 352 710 410 900 352 L900 620 L0 620Z" fill="#8fb9aa"/>
+  <circle cx="168" cy="124" r="70" fill="#fff4c7"/>
+  <path d="M640 92 C710 122 742 190 706 248 C660 323 540 291 530 205 C522 139 575 88 640 92Z" fill="#fffaf0"/>
+  <path d="M583 163 H675M575 211 H647" stroke="#496f9f" stroke-width="15" stroke-linecap="round"/>
+  <circle cx="410" cy="286" r="66" fill="#e9aa8e"/>
+  <path d="M312 520 C323 400 364 346 411 346 C465 346 508 405 520 520Z" fill="#496f9f"/>
+  <path d="M348 251 C365 199 448 203 475 251 C432 232 394 252 377 300 C362 288 352 270 348 251Z" fill="#26343c"/>
+  <path d="M526 370 C600 320 700 345 742 420" fill="none" stroke="#d66b5d" stroke-width="18" stroke-linecap="round"/>
+  <path d="M548 432 C615 402 690 422 728 476" fill="none" stroke="#fffaf0" stroke-width="14" stroke-linecap="round"/>
+</svg>

@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 460" role="img" aria-label="Дихальна вправа">
+  <defs><linearGradient id="r" x1="0" x2="1" y1="0" y2="1"><stop stop-color="#e7f0e6"/><stop offset="1" stop-color="#fff5e7"/></linearGradient></defs>
+  <rect width="720" height="460" fill="url(#r)"/>
+  <circle cx="360" cy="210" r="116" fill="#fffdf8" stroke="#6f8e68" stroke-width="12"/>
+  <circle cx="360" cy="210" r="58" fill="#dfe9da"/>
+  <path d="M360 72v58M360 290v58M222 210h58M440 210h58" stroke="#496b4b" stroke-width="10" stroke-linecap="round"/>
+  <text x="360" y="216" text-anchor="middle" font-family="Arial, sans-serif" font-size="30" font-weight="800" fill="#496b4b">4-6</text>
+  <text x="360" y="388" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="700" fill="#657064">вдих 4, видих 6</text>
+</svg>
