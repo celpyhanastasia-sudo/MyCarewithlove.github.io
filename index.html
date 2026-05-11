@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+<html lang="uk">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>MindCare | Простір психологічної підтримки</title>
+  <link rel="stylesheet" href="style.css">
+  <script src="script.js" defer></script>
+</head>
+<body>
+  <header class="site-header">
+    <a class="brand" href="index.html" aria-label="MindCare головна">
+      <span class="brand-mark">MC</span>
+      <span>MindCare</span>
+    </a>
+    <button class="nav-toggle" type="button" aria-label="Відкрити меню" aria-expanded="false">☰</button>
+    <nav class="site-nav" aria-label="Основна навігація">
+      <a class="active" href="index.html">Головна</a>
+      <a href="stories.html">Дописи</a>
+      <a href="tests.html">Тести</a>
+      <a href="bot.html">AI психолог</a>
+      <a href="resources.html">Допомога</a>
+    </nav>
+  </header>
+
+  <main>
+    <section class="hero">
+      <img class="hero-media" src="assets/hero-room.svg" alt="Затишна кімната зі світлом, рослинами і кріслом">
+      <div class="hero-content">
+        <p class="eyebrow">Підтримка поруч</p>
+        <h1>Піклуйся про свій внутрішній світ</h1>
+        <p class="hero-text">MindCare допомагає спокійно розібратися з тривогою, самотністю, втомою, самооцінкою та життєвими ситуаціями. Тут можна пройти тест, почитати дописи й поговорити з AI-ботом безкоштовно.</p>
+        <div class="hero-actions">
+          <a class="button primary" href="bot.html">Почати розмову</a>
+          <a class="button secondary" href="tests.html">Пройти тест</a>
+        </div>
+      </div>
+    </section>
+
+    <section class="quick-grid" aria-label="Основні розділи">
+      <a class="quick-card" href="stories.html">
+        <span class="quick-icon">♡</span>
+        <strong>Дописи людей</strong>
+        <small>реальні ситуації та м'які поради</small>
+      </a>
+      <a class="quick-card" href="tests.html">
+        <span class="quick-icon">☑</span>
+        <strong>Тести</strong>
+        <small>коротке самоспостереження</small>
+      </a>
+      <a class="quick-card" href="bot.html">
+        <span class="quick-icon">✦</span>
+        <strong>AI психолог</strong>
+        <small>розмова, питання, вправи</small>
+      </a>
+      <a class="quick-card" href="resources.html">
+        <span class="quick-icon">!</span>
+        <strong>Допомога</strong>
+        <small>коли потрібна жива підтримка</small>
+      </a>
+    </section>
+
+    <section class="daily-quote" aria-label="Мотиваційна цитата дня">
+      <div>
+        <p class="eyebrow">Цитата дня</p>
+        <h2>Мотиваційна цитата дня</h2>
+        <blockquote id="dailyQuote">Ти не маєш вирішити все життя сьогодні. Достатньо зробити один чесний крок у свій бік.</blockquote>
+      </div>
+      <a class="button secondary" href="resources.html#relax">Релакс-вправи</a>
+    </section>
+
+    <section class="content-layout">
+      <div>
+        <div class="section-heading compact-heading">
+          <p class="eyebrow">Нові дописи</p>
+          <h2>Життєві ситуації, в яких легко впізнати себе</h2>
+        </div>
+        <div class="post-grid">
+          <article class="post-card">
+            <img src="assets/photo-window.svg" alt="Людина біля вікна у теплому світлі">
+            <div>
+              <span class="tag">Стосунки</span>
+              <h3>Коли людина віддаляється без пояснень</h3>
+              <p>Як не звинувачувати себе автоматично, що запитати прямо і як зберегти власну гідність у невизначеності.</p>
+            </div>
+          </article>
+          <article class="post-card">
+            <img src="assets/photo-journal.svg" alt="Щоденник і чашка чаю">
+            <div>
+              <span class="tag">Саморозвиток</span>
+              <h3>Маленькі кроки, коли немає сил</h3>
+              <p>Не треба змінювати все життя за день. Іноді достатньо одного чесного, дуже маленького кроку.</p>
+            </div>
+          </article>
+          <article class="post-card">
+            <img src="assets/scene-anxiety.svg" alt="Абстрактна ілюстрація тривоги">
+            <div>
+              <span class="tag">Тривога</span>
+              <h3>Як заспокоїти думки перед важливою подією</h3>
+              <p>Короткий спосіб відділити факти від страшних прогнозів і повернути собі контроль над діями.</p>
+            </div>
+          </article>
+        </div>
+      </div>
+
+      <aside class="bot-preview">
+        <div class="bot-status">Онлайн</div>
+        <img src="assets/bot-companion.svg" alt="Дружній AI бот">
+        <h2>AI психолог</h2>
+        <p>Відповідає тепліше, ставить уточнювальні питання, пам'ятає тему розмови й пропонує вправи під стан людини.</p>
+        <a class="button primary" href="bot.html">Написати боту</a>
+      </aside>
+    </section>
+
+    <section class="feature-band">
+      <div>
+        <p class="eyebrow">Про безпеку</p>
+        <h2>AI-бот може підтримати, але не замінює психолога</h2>
+        <p>Якщо є небезпека для життя, самопошкодження або стан різко погіршується, важливо звернутися до дорослої людини поруч, психолога, лікаря або екстрених служб.</p>
+      </div>
+      <a class="button light" href="resources.html">Де шукати допомогу</a>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <p>MindCare © 2026. Освітній сайт про психологічну підтримку.</p>
+  </footer>
+</body>
+</html>

@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="uk">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>AI психолог | MindCare</title>
+  <link rel="stylesheet" href="style.css">
+  <script src="script.js" defer></script>
+</head>
+<body>
+  <header class="site-header">
+    <a class="brand" href="index.html"><span class="brand-mark">MC</span><span>MindCare</span></a>
+    <button class="nav-toggle" type="button" aria-label="Відкрити меню" aria-expanded="false">☰</button>
+    <nav class="site-nav" aria-label="Основна навігація">
+      <a href="index.html">Головна</a>
+      <a href="stories.html">Дописи</a>
+      <a href="tests.html">Тести</a>
+      <a class="active" href="bot.html">AI психолог</a>
+      <a href="resources.html">Допомога</a>
+    </nav>
+  </header>
+
+  <main class="chat-shell">
+    <section class="chat-intro">
+      <div>
+        <p class="eyebrow">Підтримувальна розмова</p>
+        <h1>AI психолог</h1>
+        <p>Напиши як є: коротко, хаотично, з помилками або навіть просто “як справи?”. Бот відповідає людяно, уточнює деталі, допомагає назвати почуття і пропонує маленькі кроки.</p>
+      </div>
+      <img src="assets/bot-companion.svg" alt="Дружній AI бот для підтримки">
+    </section>
+
+    <section class="chat-layout">
+      <aside class="chat-side">
+        <h2>Швидкі теми</h2>
+        <button type="button" class="prompt-chip" data-prompt="Мені тривожно, і я не можу заспокоїтися.">Тривога</button>
+        <button type="button" class="prompt-chip" data-prompt="Я почуваюся самотньо і ніби мене ніхто не розуміє.">Самотність</button>
+        <button type="button" class="prompt-chip" data-prompt="Я дуже втомилася і не маю сил нічого робити.">Втома</button>
+        <button type="button" class="prompt-chip" data-prompt="Я боюся зробити помилку і весь час себе критикую.">Самокритика</button>
+        <button type="button" class="prompt-chip" data-prompt="У мене складна ситуація у стосунках, я не знаю що робити.">Стосунки</button>
+      </aside>
+
+      <section class="chat-panel" aria-label="Чат з AI психологом">
+        <div class="chat-topline">
+          <span>MindCare bot</span>
+          <strong>Онлайн</strong>
+        </div>
+        <div id="chat" class="chat-window"></div>
+        <form id="chatForm" class="chat-form">
+          <label class="sr-only" for="userInput">Повідомлення</label>
+          <textarea id="userInput" rows="2" placeholder="Напиши свої думки або встав результат тесту..."></textarea>
+          <button class="button primary" type="submit">Надіслати</button>
+        </form>
+      </section>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <p>MindCare © 2026. Освітній сайт про психологічну підтримку.</p>
+  </footer>
+</body>
+</html>

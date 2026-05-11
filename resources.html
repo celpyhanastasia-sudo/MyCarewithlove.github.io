@@ -1,0 +1,153 @@
+<!DOCTYPE html>
+<html lang="uk">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Допомога | MindCare</title>
+  <link rel="stylesheet" href="style.css">
+  <script src="script.js" defer></script>
+</head>
+<body>
+  <header class="site-header">
+    <a class="brand" href="index.html"><span class="brand-mark">MC</span><span>MindCare</span></a>
+    <button class="nav-toggle" type="button" aria-label="Відкрити меню" aria-expanded="false">☰</button>
+    <nav class="site-nav" aria-label="Основна навігація">
+      <a href="index.html">Головна</a>
+      <a href="stories.html">Дописи</a>
+      <a href="tests.html">Тести</a>
+      <a href="bot.html">AI психолог</a>
+      <a class="active" href="resources.html">Допомога</a>
+    </nav>
+  </header>
+
+  <main class="page-shell">
+    <section class="support-hero">
+      <div>
+        <p class="eyebrow">Коли потрібна підтримка</p>
+        <h1>Допомога без сорому і паніки</h1>
+        <p>Іноді самопідтримки недостатньо. Це нормально. Тут є короткі фрази, до кого звернутися, і вправи, які можна зробити просто зараз, щоб трохи знизити напругу.</p>
+        <div class="hero-actions">
+          <a class="button primary" href="#relax">Релакс-вправи</a>
+          <a class="button secondary" href="#reading">Література</a>
+        </div>
+      </div>
+      <aside class="quote-card">
+        <p class="eyebrow">Нагадування</p>
+        <blockquote id="supportQuote">Просити допомогу - це не слабкість, а спосіб не залишати себе наодинці.</blockquote>
+      </aside>
+    </section>
+
+    <section class="help-grid">
+      <article class="help-card urgent">
+        <span class="tag">Терміново</span>
+        <h2>Якщо є небезпека зараз</h2>
+        <p>Якщо ти можеш нашкодити собі або комусь іншому, не залишайся сама. Звернися до дорослого поруч і телефонуй до місцевих екстрених служб. В Україні це 112 або 103.</p>
+      </article>
+      <article class="help-card">
+        <span class="tag">Люди поруч</span>
+        <h2>З ким поговорити</h2>
+        <p>Батьки, родичі, класний керівник, шкільний психолог, сімейний лікар, соціальний педагог, тренер або інша доросла людина, якій ти довіряєш.</p>
+      </article>
+      <article class="help-card">
+        <span class="tag">Психолог</span>
+        <h2>Коли варто звернутися</h2>
+        <p>Якщо тривога, сум, панічні стани, проблеми зі сном, самопошкодження або виснаження тривають довго, посилюються чи заважають навчанню й життю.</p>
+      </article>
+      <article class="help-card">
+        <span class="tag">Почати розмову</span>
+        <h2>Що сказати</h2>
+        <p>Можна почати просто: “Мені важко, я не справляюся самостійно, мені потрібна допомога”. Не потрібно пояснювати все ідеально з першої спроби.</p>
+      </article>
+    </section>
+
+    <section id="relax" class="relax-section">
+      <div class="section-heading">
+        <p class="eyebrow">Релакс-вправи</p>
+        <h2>Короткий гайд, коли треба заспокоїти тіло</h2>
+        <p>Це не лікування і не магія, але такі вправи часто допомагають нервовій системі отримати сигнал: “зараз я в більшій безпеці”.</p>
+      </div>
+
+      <div class="exercise-grid">
+        <article class="exercise-card">
+          <img src="assets/relax-breathing.svg" alt="Дихальна вправа вдих 4 видих 6">
+          <div>
+            <span class="tag">2 хвилини</span>
+            <h3>Дихання 4-6</h3>
+            <ol>
+              <li>Сядь зручно й постав стопи на підлогу.</li>
+              <li>Вдихай носом на 4 рахунки.</li>
+              <li>Видихай повільно на 6 рахунків.</li>
+              <li>Повтори 6-8 разів і поміть, чи стало тілу легше.</li>
+            </ol>
+          </div>
+        </article>
+
+        <article class="exercise-card">
+          <img src="assets/relax-grounding.svg" alt="Вправа заземлення 5 4 3 2 1">
+          <div>
+            <span class="tag">Заземлення</span>
+            <h3>5-4-3-2-1</h3>
+            <ol>
+              <li>Назви 5 речей, які бачиш.</li>
+              <li>Назви 4 звуки або тілесні відчуття.</li>
+              <li>Торкнися 3 предметів і опиши їхню текстуру.</li>
+              <li>Назви 2 запахи і 1 смак або ковток води.</li>
+            </ol>
+          </div>
+        </article>
+      </div>
+    </section>
+
+    <section class="video-links">
+      <div>
+        <p class="eyebrow">Що шукати на відео</p>
+        <h2>Безпечні запити для YouTube</h2>
+        <p>Я не вставляю випадкові ролики, щоб не підсунути сумнівний контент. Але можна шукати такі запити і обирати спокійні відео без різких звуків:</p>
+      </div>
+      <div class="link-pills">
+        <a href="https://www.youtube.com/results?search_query=дихання+4+6+вправа+від+тривоги" target="_blank" rel="noreferrer">дихання 4-6</a>
+        <a href="https://www.youtube.com/results?search_query=заземлення+5+4+3+2+1+тривога" target="_blank" rel="noreferrer">заземлення 5-4-3-2-1</a>
+        <a href="https://www.youtube.com/results?search_query=прогресивна+м'язова+релаксація+українською" target="_blank" rel="noreferrer">м'язова релаксація</a>
+      </div>
+    </section>
+
+    <section id="reading" class="reading-section">
+      <div class="section-heading">
+        <p class="eyebrow">Що почитати</p>
+        <h2>Література для спокою і кращого розуміння себе</h2>
+        <p>Ці книги не замінюють психолога, але можуть допомогти краще зрозуміти тривогу, самокритику, стрес і навички м'якої самопідтримки.</p>
+      </div>
+      <div class="book-grid">
+        <article class="book-card">
+          <span class="book-mark">01</span>
+          <h3>Jon Kabat-Zinn - Full Catastrophe Living</h3>
+          <p>Про mindfulness і роботу зі стресом через тіло, увагу та регулярні практики.</p>
+          <a href="https://www.randomhousebooks.com/books/89149/" target="_blank" rel="noreferrer">Відкрити опис</a>
+        </article>
+        <article class="book-card">
+          <span class="book-mark">02</span>
+          <h3>Kristin Neff - Self-Compassion</h3>
+          <p>Про те, як зменшувати внутрішню жорсткість і говорити з собою людяніше.</p>
+          <a href="https://mitpressbookstore.mit.edu/book/9780061733529" target="_blank" rel="noreferrer">Відкрити опис</a>
+        </article>
+        <article class="book-card">
+          <span class="book-mark">03</span>
+          <h3>Russ Harris - The Happiness Trap</h3>
+          <p>Доступне знайомство з ACT: як не воювати з кожною думкою і жити ближче до своїх цінностей.</p>
+          <a href="https://books.apple.com/us/book/the-happiness-trap/id1618866017" target="_blank" rel="noreferrer">Відкрити опис</a>
+        </article>
+        <article class="book-card">
+          <span class="book-mark">04</span>
+          <h3>Johns Hopkins Mindfulness Resources</h3>
+          <p>Добірка рекомендованого читання про mindfulness для дорослих, підлітків і дітей.</p>
+          <a href="https://www.hopkinsmedicine.org/psychiatry/specialty-areas/mindfulness/resources" target="_blank" rel="noreferrer">Переглянути добірку</a>
+        </article>
+      </div>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <p>MindCare © 2026. Освітній сайт про психологічну підтримку.</p>
+  </footer>
+</body>
+</html>
